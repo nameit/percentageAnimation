@@ -1,0 +1,2 @@
+# percentageAnimation
+一个简单的用canvas画的可自定义颜色和起止位置的动画百分比
