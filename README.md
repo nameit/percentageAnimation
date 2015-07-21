@@ -27,3 +27,6 @@ jQuery
 例如：$('.aaa').percentageAnimation({  
   speed: 20  
 });
+
+## 预览地址
+[预览地址](http://nameit.github.io/2015/07/21/%E4%B8%80%E4%B8%AAcanvas%E7%94%BB%E7%9A%84%E5%8F%AF%E8%87%AA%E5%AE%9A%E4%B9%89%E9%A2%9C%E8%89%B2%E5%92%8C%E8%B5%B7%E6%AD%A2%E4%BD%8D%E7%BD%AE%E7%9A%84%E5%8A%A8%E7%94%BB%E7%99%BE%E5%88%86%E6%AF%94/)
